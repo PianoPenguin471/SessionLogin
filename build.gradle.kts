@@ -3,7 +3,7 @@ plugins {
     id("com.github.weave-mc.weave-gradle") version "fac948db7f"
 }
 
-group = "club.maxstats.weaveyoutube"
+group = "me.pianopenguin.sessionlogin"
 version = "1.0"
 
 repositories {

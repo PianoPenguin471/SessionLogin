@@ -1,4 +1,4 @@
-rootProject.name = "WeaveYouTube"
+rootProject.name = "SessionLogin"
 
 pluginManagement {
     repositories {

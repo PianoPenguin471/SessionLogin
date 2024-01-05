@@ -1,11 +1,8 @@
 {
   "mixinConfigs": [
-    "weaveyoutube.mixins.json"
+    "sessionlogin.mixins.json"
   ],
   "entrypoints": [
-    "club.maxstats.weaveyoutube.Main"
-  ],
-  "hooks": [
-    "club.maxstats.weaveyoutube.hook.StartGameHook"
+    "me.pianopenguin.sessionlogin.Main"
   ]
 }

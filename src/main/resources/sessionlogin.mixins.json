@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.pianopenguin.sessionlogin.mixin",
+  "mixins": [
+    "GuiMultiplayerMixin"
+  ]
+}
